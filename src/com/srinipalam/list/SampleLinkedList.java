@@ -73,7 +73,7 @@ public class SampleLinkedList {
 				System.out.println(ll.get(j));
 				j++;
 			}
-		
+		System.out.println(" git push");
 		
 		
 	}
